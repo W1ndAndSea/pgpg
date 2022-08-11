@@ -5,7 +5,7 @@ public class ninenine {
                 System.out.print(j+"*"+i+"="+i*j+"  ");
             }
             System.out.println();
-            System.out.println("add it");
+            System.out.println("addall");
         }
 
 
